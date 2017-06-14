@@ -1,0 +1,356 @@
+fileFormatVersion: 2
+guid: db4159e7ea0bd47078dae3a5f186ee07
+timeCreated: 1493694580
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Simon_Idle
+    21300002: Simon_Walking_0
+    21300004: Simon_Walking_1
+    21300006: Simon_Crouch
+    21300008: Simon_Stairs_0
+    21300010: Simon_Stairs_1
+    21300012: Simon_Dead_0
+    21300014: Simon_Dead_1
+    21300016: Simon_Attack_0
+    21300018: Simon_Attack_1
+    21300020: Simon_Attack_2
+    21300022: Simon_Attack_Stairs_Up_0
+    21300024: Simon_Attack_Stairs_Up_1
+    21300026: Simon_Attack_Stairs_Up_2
+    21300028: Simon_Attack_Crouch_0
+    21300030: Simon_Attack_Crouch_1
+    21300032: Simon_Attack_Crouch_2
+    21300034: Simon_Attack_Stairs_Down_0
+    21300036: Simon_Attack_Stairs_Down_1
+    21300038: Simon_Attack_Stairs_Down_2
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Simon_Idle
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 125
+        width: 16
+        height: 30
+      alignment: 9
+      pivot: {x: 0.82870364, y: 0.08195598}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_Walking_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 125
+        width: 12
+        height: 31
+      alignment: 9
+      pivot: {x: 0.8034188, y: 0.06934062}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_Walking_1
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 125
+        width: 15
+        height: 30
+      alignment: 9
+      pivot: {x: 0.85061747, y: 0.08195598}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_Crouch
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 126
+        width: 16
+        height: 23
+      alignment: 9
+      pivot: {x: 0.8287029, y: 0.11303048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_Stairs_0
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 127
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_Stairs_1
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 126
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_Dead_0
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 126
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_Dead_1
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 126
+        width: 32
+        height: 15
+      alignment: 9
+      pivot: {x: 0.9045582, y: 0.17635295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_Attack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 69
+        width: 32
+        height: 31
+      alignment: 9
+      pivot: {x: 0.42254263, y: 0.110371254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_Attack_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 70
+        width: 32
+        height: 30
+      alignment: 9
+      pivot: {x: 0.41716456, y: 0.07336731}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_Attack_2
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 71
+        width: 44
+        height: 29
+      alignment: 9
+      pivot: {x: 0.9467728, y: 0.08931995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_Attack_Stairs_Up_0
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 69
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_Attack_Stairs_Up_1
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 67
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_Attack_Stairs_Up_2
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 66
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_Attack_Crouch_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 7
+        width: 32
+        height: 31
+      alignment: 9
+      pivot: {x: 0.4367877, y: 0.33034608}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_Attack_Crouch_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 11
+        width: 32
+        height: 23
+      alignment: 9
+      pivot: {x: 0.42414522, y: 0.1130306}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_Attack_Crouch_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 10
+        width: 44
+        height: 22
+      alignment: 9
+      pivot: {x: 0.9413366, y: 0.113830306}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_Attack_Stairs_Down_0
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 3
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_Attack_Stairs_Down_1
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 0
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Simon_Attack_Stairs_Down_2
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 4
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
